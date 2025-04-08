@@ -5,7 +5,8 @@ All-in-one Minecraft plugin based on the Spigot API, bringing multiple games int
 > [!WARNING]
 > This repository is for **reading purposes only**. No code is shared. More info in [License](#License-).
 
-> However, you can join `mingnetwork.feathermc.gg` in 1.21 to see the result.
+> However, you can join the related server to see the result.
+> IP address : `mingnetwork.feathermc.gg`. Minecraft Version : `1.21`.
 
 ## What I Learned from Developing This Plugin
 - Using `.yml` files to **store data persistently** between server restarts.
