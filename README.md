@@ -3,7 +3,9 @@
 All-in-one Minecraft plugin based on the Spigot API, bringing multiple games into a single server. Designed for seamless gameplay, this plugin ensures an engaging experience with various game modes and custom mechanics.
 
 > [!WARNING]
-> This repository is for **reading purposes only**. No code is shared. More info in [License](#License-)
+> This repository is for **reading purposes only**. No code is shared. More info in [License](#License-).
+
+> However, you can join `mingnetwork.feathermc.gg` in 1.21 to see the result.
 
 ## What I Learned from Developing This Plugin
 - Using `.yml` files to **store data persistently** between server restarts.
@@ -55,6 +57,7 @@ All-in-one Minecraft plugin based on the Spigot API, bringing multiple games int
 
 ## License ❌
 **No License Provided** – This software is protected by copyright. No code is shared.
+However, you can join `mingnetwork.feathermc.gg` in 1.21 to see the result.
 
 For any inquiries regarding licensing or access, please contact me.
 
